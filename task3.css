@@ -1,0 +1,52 @@
+body
+{
+    background-color: rgb(104,205,213);
+    font-size: 62.5%;
+    margin: 0;
+}
+.box{
+    width: 100%;
+    padding-bottom: 100%;
+}
+.reback
+{
+    padding-left:5.5%;
+    padding-top: 2%;
+}
+.logo1
+{
+    text-align:center;
+    padding-top: 4%;
+}
+p
+{
+    color:#FFFFFF;
+}
+.introduce
+{
+    padding-left: 14%;
+    padding-top: 12%;
+    font-size: 2em;
+    line-height: 1.5em;
+    letter-spacing: 0.2em;
+    padding-right:14%;
+    font-family:"Hiragino Sans GB W3";
+}
+.member
+{
+    padding-top: 18%;
+    padding-left:22%;
+    text-align:center;
+    font-size: 1.6em;
+    float:left;
+    font-family:"Adobe 黑体 Std R";
+}
+.logo2
+{
+    padding-right: 20%;
+    padding-top:18%;
+    text-align:center;
+    font-size: 1.6em;
+    float:right;
+    font-family:"Adobe 黑体 Std R";
+}
